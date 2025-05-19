@@ -1,8 +1,11 @@
 # Analisis Sentimen Menggunakan Support Vector Machine (SVM)
 
 Nama            : Moch Rifky Aulia Adikusumah
+
 NIM             : 1227050072
+
 Kelas           : Praktikum Pembelajaran Mesin E
+
 Referensi Tugas : [https://github.com/jatinwarade/Sentiment-analysis-using-SVM]
 
 ## Deskripsi
